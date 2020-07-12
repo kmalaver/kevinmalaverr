@@ -1,16 +1,14 @@
-### Hi there 👋
+# Kevin Malaver - @kevinmalaverr
 
-<!--
-**kevinmalaverr/kevinmalaverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi,  I am  a appasionate developer that enjoys writing code , i can help you about web development
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on Tickio
+- 📖 I’m currently learning Javascript
+- 👥 I’m looking to collaborate on Frontend projects
+- 💬 Ask me about you want
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- [Twitter](https://twitter.com/kevinMalaverr "Twitter")
+- [Linkedin](https://co.linkedin.com/in/kevinmalaverr)
+- [Email](https://kevinmalaver.work/)

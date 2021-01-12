@@ -1,5 +1,5 @@
 <p align=center>
-<span style="font-size:30px">Kevin Malaver</span>
+<b style="font-size:30px">Kevin Malaver</b>
 <span style="font-size:18px">Frotend Developer</span>
 </p>
 
